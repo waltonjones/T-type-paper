@@ -4,7 +4,7 @@ Results_electrophys.tex
 Table 1.tex
 Results_expression.tex
 Results_sleep.tex
-clock.tex
+Results_clock.tex
 knockdown.tex
 discussion.tex
 methods.tex
