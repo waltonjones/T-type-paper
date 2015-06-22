@@ -1,6 +1,6 @@
 abstract.tex
 Introduction.tex
-Results.tex
+Results_electrophys.tex
 Table 1.tex
 expression.tex
 Results_sleep.tex
