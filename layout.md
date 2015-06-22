@@ -7,6 +7,7 @@ Results_expression.tex
 figures/fig_2/fig_2.png
 Results_sleep.tex
 figures/fig_3/fig_3.png
+figures/fig_4/fig_4.png
 Results_clock.tex
 Results_knockdown.tex
 discussion.tex
