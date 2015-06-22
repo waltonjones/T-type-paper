@@ -18,4 +18,5 @@ sleep_method.tex
 qpcr.tex
 stats.tex
 acknowledgements.tex
+author_contrib.tex
     
