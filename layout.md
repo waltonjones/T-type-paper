@@ -12,7 +12,7 @@ Methods_cloning.tex
 Methods_chemicals.tex
 Methods_oocytes.tex
 electrophys.tex
-mutant_gen.tex
+Methods_mutants.tex
 Methods_antibody.tex
 Methods_IHC.tex
 Methods_sleep.tex
