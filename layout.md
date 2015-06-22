@@ -5,4 +5,5 @@ expression.tex
 sleep.tex
 clock.tex
 knockdown.tex
+discussion.tex
     
