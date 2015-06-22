@@ -16,7 +16,7 @@ mutant_gen.tex
 antibody.tex
 ihc.tex
 sleep_method.tex
-qpcr.tex
+Methods_qpcr.tex
 stats.tex
 acknowledgements.tex
 author_contrib.tex
