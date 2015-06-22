@@ -20,4 +20,5 @@ stats.tex
 acknowledgements.tex
 author_contrib.tex
 additional.tex
+Table 1.tex
     
