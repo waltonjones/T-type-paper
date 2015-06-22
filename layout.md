@@ -8,4 +8,5 @@ knockdown.tex
 discussion.tex
 methods.tex
 cloning.tex
+chemicals.tex
     
