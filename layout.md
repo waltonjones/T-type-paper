@@ -8,7 +8,7 @@ Results_clock.tex
 Results_knockdown.tex
 discussion.tex
 methods.tex
-cloning.tex
+Methods_cloning.tex
 chemicals.tex
 oocytes.tex
 electrophys.tex
