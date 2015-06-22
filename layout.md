@@ -14,7 +14,7 @@ oocytes.tex
 electrophys.tex
 mutant_gen.tex
 antibody.tex
-ihc.tex
+Methods_IHC.tex
 Methods_sleep.tex
 Methods_qpcr.tex
 stats.tex
