@@ -9,7 +9,7 @@ Results_knockdown.tex
 discussion.tex
 methods.tex
 Methods_cloning.tex
-chemicals.tex
+Methods_chemicals.tex
 oocytes.tex
 electrophys.tex
 mutant_gen.tex
