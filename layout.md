@@ -1,6 +1,7 @@
 abstract.tex
 Introduction.tex
 Results.tex
+Table 1.tex
 expression.tex
 sleep.tex
 clock.tex
@@ -20,5 +21,3 @@ stats.tex
 acknowledgements.tex
 author_contrib.tex
 additional.tex
-Table 1.tex
-    
