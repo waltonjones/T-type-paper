@@ -1,6 +1,7 @@
 abstract.tex
 Introduction.tex
-Results_Methods_electrophys.tex
+Results_electrophys.tex
+figures/fig_1/fig_1.png
 Table 1.tex
 Results_expression.tex
 figures/fig_2/fig_2.png
@@ -9,11 +10,10 @@ Results_clock.tex
 Results_knockdown.tex
 discussion.tex
 methods.tex
+Methods_electrophys.tex
 Methods_cloning.tex
 Methods_chemicals.tex
 Methods_oocytes.tex
-electrophys.tex
-Methods_mutants.tex
 Methods_antibody.tex
 Methods_IHC.tex
 Methods_sleep.tex
