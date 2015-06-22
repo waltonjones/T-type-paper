@@ -13,7 +13,7 @@ chemicals.tex
 oocytes.tex
 electrophys.tex
 mutant_gen.tex
-antibody.tex
+Methods_antibody.tex
 Methods_IHC.tex
 Methods_sleep.tex
 Methods_qpcr.tex
