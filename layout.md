@@ -15,7 +15,7 @@ electrophys.tex
 mutant_gen.tex
 antibody.tex
 ihc.tex
-sleep_method.tex
+Methods_sleep.tex
 Methods_qpcr.tex
 stats.tex
 acknowledgements.tex
