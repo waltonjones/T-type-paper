@@ -13,4 +13,5 @@ oocytes.tex
 electrophys.tex
 mutant_gen.tex
 antibody.tex
+ihc.tex
     
