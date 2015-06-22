@@ -10,7 +10,7 @@ discussion.tex
 methods.tex
 Methods_cloning.tex
 Methods_chemicals.tex
-oocytes.tex
+Methods_oocytes.tex
 electrophys.tex
 mutant_gen.tex
 Methods_antibody.tex
