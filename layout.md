@@ -17,7 +17,7 @@ Methods_antibody.tex
 Methods_IHC.tex
 Methods_sleep.tex
 Methods_qpcr.tex
-stats.tex
+Methods_stats.tex
 acknowledgements.tex
 author_contrib.tex
 additional.tex
