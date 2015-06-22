@@ -3,6 +3,7 @@ Introduction.tex
 Results_Methods_electrophys.tex
 Table 1.tex
 Results_expression.tex
+figures/fig_2/fig_2.png
 Results_sleep.tex
 Results_clock.tex
 Results_knockdown.tex
