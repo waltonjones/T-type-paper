@@ -27,6 +27,7 @@ acknowledgements.tex
 author_contrib.tex
 additional.tex
 figures/fig_S2/fig_S2.png
+figures/Fig_S1/Fig_S1.png
 figures/fig_S3/fig_S3.png
 figures/fig_S4/fig_S4.png
 figures/fig_S5/fig_S5.png
