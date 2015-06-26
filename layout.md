@@ -4,7 +4,6 @@ Results_electrophys.tex
 figures/fig_1/fig_1.png
 Table 1.tex
 Results_expression.tex
-figures/fig_2/fig_2.png
 figures/Fig_2/Fig_2.png
 Results_sleep.tex
 figures/fig_3/fig_3.png
