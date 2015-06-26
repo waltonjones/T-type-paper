@@ -7,7 +7,6 @@ Results_expression.tex
 figures/fig_2/fig_2.png
 figures/Fig_1/Fig_1.png
 label_fig_2_textbf_Expression__.tex
-figures/Fig_2/Fig_2.png
 Results_sleep.tex
 figures/fig_3/fig_3.png
 Results_clock.tex
