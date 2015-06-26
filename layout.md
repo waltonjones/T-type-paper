@@ -5,7 +5,6 @@ figures/fig_1/fig_1.png
 Table 1.tex
 Results_expression.tex
 figures/fig_2/fig_2.png
-figures/Fig_1/Fig_1.png
 label_fig_2_textbf_Expression__.tex
 Results_sleep.tex
 figures/fig_3/fig_3.png
