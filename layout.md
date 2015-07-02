@@ -25,6 +25,5 @@ Methods_stats.tex
 acknowledgements.tex
 author_contrib.tex
 additional.tex
-figures/Fig_S2/Fig_S2.png
 figures/Fig_S3/Fig_S3.png
 figures/fig_S5/fig_S5.png
