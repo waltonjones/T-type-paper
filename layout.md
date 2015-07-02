@@ -25,3 +25,4 @@ Methods_stats.tex
 acknowledgements.tex
 author_contrib.tex
 additional.tex
+figures/Fig_S1/Fig_S1.png
