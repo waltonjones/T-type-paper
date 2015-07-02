@@ -8,6 +8,7 @@ figures/Fig_2/Fig_2.png
 Results_sleep.tex
 figures/Fig_3/Fig_3.png
 Results_clock.tex
+figures/Fig_4/Fig_4.png
 Results_knockdown.tex
 figures/fig_5/fig_5.png
 figures/fig_6/fig_6.png
