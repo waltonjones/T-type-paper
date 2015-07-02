@@ -1,6 +1,7 @@
 abstract.tex
 Introduction.tex
 Results_electrophys.tex
+figures/Fig_1/Fig_1.png
 Table 1.tex
 Results_expression.tex
 figures/Fig_2/Fig_2.png
