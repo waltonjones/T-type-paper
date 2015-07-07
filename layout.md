@@ -13,9 +13,9 @@ Results_knockdown.tex
 figures/Fig_5/Fig_5.png
 discussion.tex
 methods.tex
-Methods_electrophys.tex
 Methods_cloning.tex
 Methods_chemicals.tex
+Methods_electrophys.tex
 Methods_oocytes.tex
 Methods_antibody.tex
 Methods_IHC.tex
