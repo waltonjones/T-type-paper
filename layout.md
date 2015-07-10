@@ -2,7 +2,7 @@ abstract.tex
 Introduction.tex
 Results_electrophys.tex
 figures/Fig_1/Fig_1.png
-begin_table_hb_begin_center__.tex
+table.tex
 Results_expression.tex
 figures/Fig_2/Fig_2.png
 Results_sleep.tex
