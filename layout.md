@@ -27,5 +27,6 @@ author_contrib.tex
 additional.tex
 figures/Fig_S1/Fig_S1.png
 figures/Fig_S2/Fig_S2.png
+figures/Fig_S/Fig_S.png
 figures/Fig_S3/Fig_S3.png
 figures/Fig_S4/Fig_S4.png
