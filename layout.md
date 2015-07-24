@@ -17,7 +17,7 @@ Methods_cloning.tex
 Methods_chemicals.tex
 Methods_oocytes.tex
 Methods_electrophys.tex
-subsection_Generation_of_knock_in__.tex
+Methods_knockin_alleles.tex
 Methods_antibody.tex
 Methods_IHC.tex
 Methods_sleep.tex
