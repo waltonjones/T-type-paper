@@ -18,7 +18,7 @@ Methods_chemicals.tex
 Methods_oocytes.tex
 Methods_electrophys.tex
 Methods_knockin_alleles.tex
-subsection_Generation_of_deletion_mutants__.tex
+Methods_deletions.tex
 Methods_antibody.tex
 Methods_IHC.tex
 Methods_sleep.tex
