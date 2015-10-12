@@ -6,11 +6,9 @@ table.tex
 Results_expression.tex
 figures/Fig_2/Fig_2.png
 Results_sleep.tex
-figures/Fig_3/Fig_3.png
 Results_clock.tex
-figures/Fig_4/Fig_4.png
 Results_knockdown.tex
-figures/Fig_5/Fig_5.png
+figures/Fig_S5/Fig_S5.png
 discussion.tex
 Methods_fly_stocks.tex
 Methods_cloning.tex
@@ -31,4 +29,3 @@ figures/Fig_S1/Fig_S1.png
 figures/Fig_S2/Fig_S3.png
 figures/Fig_S3/Fig_S4.png
 figures/Fig_S4/Fig_S5.png
-figures/Fig_S5/Fig_S5.png
