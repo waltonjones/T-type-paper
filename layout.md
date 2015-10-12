@@ -11,7 +11,7 @@ Results_clock.tex
 figures/Fig_4/Fig_4.png
 Results_knockdown.tex
 figures/Fig_5/Fig_5.png
-figures/Fig_S5/Fig_S5.png
+figures/Fig_S5/Fig_6.png
 discussion.tex
 Methods_fly_stocks.tex
 Methods_cloning.tex
